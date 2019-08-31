@@ -29,7 +29,7 @@ brew install python3.7.4
 Install python virtualenv
 
 ```bash
-python3 install virtualenv
+pip3 install virtualenv
 ```
 
 Clone repository
